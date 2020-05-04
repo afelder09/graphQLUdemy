@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstName": "Jimmy",
+      "age": 100,
+      "companyId": "1"
+    },
+    {
+      "id": "21",
+      "firstName": "Anson",
+      "age": 29,
+      "companyId": "2"
+    },
+    {
+      "id": "22",
+      "firstName": "Jnae",
+      "age": 99,
+      "companyId": "1"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Acme",
+      "description": "Fucking things up"
+    },
+    {
+      "id": "2",
+      "name": "Upside",
+      "description": "Will business travel ever happen again?"
+    }
+  ]
+}
